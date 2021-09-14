@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatima
--Bachelor’s Degree in Computer Information System King Faisal University 2017
+- Bachelor’s Degree in Computer Information System King Faisal University 2017
 - 👀 I’m interested in Coding JAVA,PHP,HTML,PYTHON,C++
 - 🌱 I’m currently learning Android Software Development
 
